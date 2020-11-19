@@ -1,0 +1,32 @@
+这是声波感知试验程序，OSX平台的版本。
+
+要运行，请执行以下步骤：
+
+1. 
+在 Launchpad 找到 Terminal ，或者
+用 Spotlight Search 搜索 Terminal. 
+要打开 Spotlight Search，你可以按Command+Space 或者Ctrl+Space. 
+Terminal打开之后，你会看见一个白色的控制台窗口。
+
+2. 
+在 "$" 字符后面，输入 "python "。
+注意最后有一个空格。
+这一步还不要敲回车。
+你应当看见：
+$ python 
+
+3. 
+回到访达，回到你打开本篇“如何运行”的那个文件夹。
+复制 main.py。
+
+4. 
+回到Terminal。
+粘贴。
+你现在应该看见类似于：
+$ python /Users/myname/Downloads/Sound_Perception_Experiment_声波感知实验/main.py
+如果不对，关闭Terminal，从第1步重来。
+如果一切正常，按回车。
+
+程序就会启动。
+
+完成实验之后，你可以关闭Terminal 窗口。
